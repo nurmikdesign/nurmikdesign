@@ -33,8 +33,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurmikdesign&show_icons=true&locale=en&layout=compact" alt="nurmikdesign" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nurmikdesign&show_icons=true&locale=en" alt="nurmikdesign" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmikdesign&" alt="nurmikdesign" />
 </p>
