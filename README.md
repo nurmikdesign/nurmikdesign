@@ -11,19 +11,13 @@
 
 - 🌱 I’m currently learning: **WebGL and Three.js**
 
-- 👯 I’m looking to collaborate on Interactive Web Projects [Project Portfolio](https://linktr.ee/nurmik)
-
 - 🤝 I’m looking for help with: [Advanced CSS Animations](-)
 
 - 👨‍💻 All of my projects are available at: [https://linktr.ee/nurmik](https://linktr.ee/nurmik)
 
-- 📝 I regularly write articles on 3D Modeling at: [https://linktr.ee/nurmik](https://linktr.ee/nurmik)
-
 - 💬 Ask me about: **Blender, PDF, Tailwind CSS**
 
 - 📫 How to reach me? **karlnurmik@gmail.com**
-
-- 📄 Know about my experiences: [https://linktr.ee/nurmik](https://linktr.ee/nurmik)
 
 - ⚡ Fun fact: **Late-night 3D modeling often yields amusingly unexpected results!**
 
