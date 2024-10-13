@@ -2,36 +2,39 @@
 <h3 align="center">3D Modeler | Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurmikdesign&color=0e75b6&style=flat" alt="nurmikdesign views" />
+  <img src="https://komarev.com/ghpvc/?username=nurmikdesign&color=0e75b6&style=flat" alt="nurmikdesign" />
 </p>
 
-- 🖥️ Creating interactive web experiences and detailed 3D models.
-- 🌱 Exploring WebGL and Three.js for advanced graphics.
-- 📫 Reach me at [karlnurmik@gmail.com](mailto:karlnurmik@gmail.com).
+- 🔭 Working on **Advanced 3D modeling**
+- 🌱 Learning **WebGL and Three.js**
+- 📫 Reach me at **[karlnurmik@gmail.com](mailto:karlnurmik@gmail.com)**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect:</h3>
+<p align="left">
   <a href="https://www.facebook.com/karlrichardnurmik/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <!-- Additional icons -->
+<h3 align="left">Skills:</h3>
+<p align="left"> 
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurmikdesign&show_icons=true&locale=en&layout=compact" alt="nurmikdesign" />
   <img src="https://github-readme-stats.vercel.app/api?username=nurmikdesign&show_icons=true&locale=en" alt="nurmikdesign" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmikdesign&" alt="nurmikdesign" />
-</div>
+</p>
